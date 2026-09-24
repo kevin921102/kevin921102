@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 系級:智慧運算
 - 正在學習:python、C
-- 感興趣的題目:戰鬥陀螺、健身、
+- 感興趣的題目:戰鬥陀螺、健身
 - 這學期目標:不要被當
 
 # 我的作品
