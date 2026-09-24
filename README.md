@@ -1,7 +1,5 @@
 ## 你好 我是湯士隆 👋
 我是中原大學智慧運算的學生
-<!--
-**kevin921102/kevin921102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 關於我
 Here are some ideas to get you started:
 
